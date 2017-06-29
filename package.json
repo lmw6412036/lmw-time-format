@@ -1,0 +1,28 @@
+{
+    "name": "lmw-time-format",
+    "version": "1.0.1",
+    "description": "time-format",
+    "main": "main.js",
+    "scripts": {
+        "dev": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lmw6412036/lmw-time-format.git"
+    },
+    "author": "lmw6412036",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lmw6412036/lmw-time-format/issues"
+    },
+    "homepage": "https://github.com/lmw6412036/lmw-time-format#readme",
+    "devDependencies": {
+        "auto-version": "^1.0.11",
+        "d3-time-format": "^2.0.5",
+        "hprose": "^2.0.44"
+    },
+    "dependencies": {
+        "d3-time-format": "^2.0.5"
+    }
+}
